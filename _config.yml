@@ -6,7 +6,7 @@ email:       jonathon.bel.melbourne@gmail.com
 author:      Jonathon Belotti
 description: "A striking black-white Jekyll theme."
 baseurl:     "https://robertolewis.github.io/"
-url:         "/port"
+url:         "https://robertolewis.github.io//port"
 date_format: "%b %-d, %Y"
 
 # Google services
