@@ -5,8 +5,8 @@ title:       Junior Theme
 email:       jonathon.bel.melbourne@gmail.com
 author:      Jonathon Belotti
 description: "A striking black-white Jekyll theme."
-baseurl:     "https://robertolewis.github.io/"
-url:         "https://robertolewis.github.io/junior-theme"
+baseurl:     "/junior-theme/"
+url:         "https://juniortheme.live/"
 date_format: "%b %-d, %Y"
 
 # Google services
